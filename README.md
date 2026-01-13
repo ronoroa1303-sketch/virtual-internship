@@ -9,6 +9,11 @@ The project focuses on AI-assisted analytical reasoning, business decision desig
 
 This repository demonstrates how modern analysts can use GenAI as a decision-support tool, not traditional coding skills.
 
+divided into 4 submission tasks - 
+1. file_eda_summary_report Tata
+2. Geldium_Task2_model_plan
+3. Updated_Buisness_Summary_Report
+4. Presentation
 ## Business Objective
 
 To explore how a financial services company (Geldium) could use AI-assisted analytics to:
